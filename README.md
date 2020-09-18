@@ -17,7 +17,7 @@ Copy all dlls from "IDA 7.2 plugins" folder to your IDA 7.2 plugins folder.
 ### idatocpp.py options 
 
 ```
-header_cpp_gen.py [-h] -db path -iclass name [--rcalls] [--pdtypes]
+idatocpp.py [-h] -db path -iclass name [--rcalls] [--pdtypes]
 
 help:
 -h, --help    show this help message and exit
